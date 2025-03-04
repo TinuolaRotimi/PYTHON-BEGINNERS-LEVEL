@@ -14,3 +14,5 @@
 # 13- DICT()
 # 14- NUMPY()
 # 15- PANDAS()
+# 16- MATPLOTLIB()
+# 17- SEABORN()
